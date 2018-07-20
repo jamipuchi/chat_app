@@ -1,3 +1,5 @@
-# chat_app
-This is a basic chat app that can work with different users, different groups and in different browsers. It's built using node.js.
-It's functionalities are sending messages (obviously), changing your nickname and changing the group you are in.
+Chatrooms
+=========
+
+A basic chatroom, based on the one in chapter 2 of Node.js in Action by
+Mike Cantelon, TJ Holowaychuk and Nathan Rajlich.
